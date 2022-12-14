@@ -1,0 +1,12 @@
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\bin\Debug\net7.0\RoundTheCode.SOLID.deps.json
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\bin\Debug\net7.0\RoundTheCode.SOLID.dll
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\bin\Debug\net7.0\RoundTheCode.SOLID.pdb
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\RoundTheCode.SOLID.csproj.AssemblyReference.cache
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\RoundTheCode.SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\RoundTheCode.SOLID.AssemblyInfoInputs.cache
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\RoundTheCode.SOLID.AssemblyInfo.cs
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\RoundTheCode.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\RoundTheCode.SOLID.dll
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\refint\RoundTheCode.SOLID.dll
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\RoundTheCode.SOLID.pdb
+C:\Users\Guose\source\repos\RoundTheCode\RoundTheCode.SOLID\obj\Debug\net7.0\ref\RoundTheCode.SOLID.dll

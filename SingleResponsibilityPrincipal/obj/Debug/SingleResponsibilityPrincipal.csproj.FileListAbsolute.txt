@@ -1,0 +1,11 @@
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\obj\Debug\SingleResponsibilityPrincipal.csproj.AssemblyReference.cache
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\obj\Debug\SingleResponsibilityPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\obj\Debug\SingleResponsibilityPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\bin\Debug\SingleResponsibilityPrincipal.exe.config
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\bin\Debug\SingleResponsibilityPrincipal.exe
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\bin\Debug\SingleResponsibilityPrincipal.pdb
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\obj\Debug\SingleResponsibilityPrincipal.csproj.CopyComplete
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\obj\Debug\SingleResponsibilityPrincipal.exe
+C:\Users\Guose\source\repos\RoundTheCode\SingleResponsibilityPrincipal\obj\Debug\SingleResponsibilityPrincipal.pdb

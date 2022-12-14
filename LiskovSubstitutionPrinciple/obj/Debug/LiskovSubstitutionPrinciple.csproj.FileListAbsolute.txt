@@ -1,0 +1,11 @@
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CopyComplete
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\Guose\source\repos\RoundTheCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

@@ -1,0 +1,11 @@
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CopyComplete
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\Guose\source\repos\RoundTheCode\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb

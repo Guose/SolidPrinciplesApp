@@ -1,0 +1,8 @@
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\Guose\source\repos\RoundTheCode\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
