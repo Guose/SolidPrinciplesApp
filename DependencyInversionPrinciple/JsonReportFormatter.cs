@@ -1,10 +1,6 @@
-﻿using Newtonsoft.Json;
-using DependencyInversionPrinciple.Interfaces;
-using System;
+﻿using DependencyInversionPrinciple.Interfaces;
+using Newtonsoft.Json;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DependencyInversionPrinciple
 {

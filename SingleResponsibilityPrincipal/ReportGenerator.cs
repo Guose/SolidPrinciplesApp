@@ -1,7 +1,4 @@
-﻿using Newtonsoft.Json;
-using System.Collections.Generic;
-
-namespace SingleResponsibilityPrincipal
+﻿namespace SingleResponsibilityPrincipal
 {
     public class ReportGenerator
     {

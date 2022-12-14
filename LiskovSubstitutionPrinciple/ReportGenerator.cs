@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json;
-using LiskovSubstitutionPrinciple.Interfaces;
-using System.Collections.Generic;
+﻿using LiskovSubstitutionPrinciple.Interfaces;
 
 namespace LiskovSubstitutionPrinciple
 {
