@@ -1,4 +1,4 @@
-﻿using LiskovSubstitutionPrinciple.Interfaces;
+﻿using DependencyInversionPrinciple.Interfaces;
 using System.Collections.Generic;
 
 namespace DependencyInversionPrinciple

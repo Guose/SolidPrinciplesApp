@@ -11,7 +11,9 @@ namespace OpenClosedPrinciple
         static void Main(string[] args)
         {
             var generator = new ReportGenerator();
-            var formattedResult = generator.GenerateReportAsString();
+            var inMemoryDataProvider = new InMemoryDataProvider();
+            var reportFormatter = new JsonReportFormatter();
+            var formattedResult = generator.GenerateReportAsString(inMemoryDataProvider, reportFormatter);
 
             Console.WriteLine(formattedResult);
             Console.ReadLine();
