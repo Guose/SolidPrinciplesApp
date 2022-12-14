@@ -1,0 +1,20 @@
+/.vs/RoundTheCode
+/DependencyInversionPrinciple/obj
+/DependencyInversionPrinciple/Debug
+/DependencyInversionPrinciple/Bin
+/OpenClosedPrinciple/obj
+/OpenClosedPrinciple/Debug
+/OpenClosedPrinciple/Bin
+/SingleResponsibilityPrincipal/obj
+/SingleResponsibilityPrincipal/Debug
+/SingleResponsibilityPrincipal/Bin
+/RoundTheCode.SOLID/obj
+/RoundTheCode.SOLID/Debug
+/RoundTheCode.SOLID/Bin
+
+*.exe
+*.pdb
+
+bin/
+# or
+*/bin/*
